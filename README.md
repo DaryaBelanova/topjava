@@ -56,7 +56,7 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
 #### Начало выполнения [выпускного проекта](https://github.com/JavaOPs/topjava/blob/master/graduation.md)
 
 ### 04.11: 5-е занятие
-- Обзор JDK 9/11. Миграция Topjava с 1.8 на 11
+- Обзор JDK 9/17. Миграция Topjava с 1.8 на 17
 - Разбор вопросов
 - Разбор домашнего задания HW4 + Optional
 - Транзакции
