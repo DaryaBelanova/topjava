@@ -1,3 +1,6 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/59f97669f0ce4717861fdf06a38b11a6)]
+(https://www.codacy.com/gh/DaryaBelanova/topjava/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DaryaBelanova/topjava&amp;utm_campaign=Badge_Grade)
+
 Java Enterprise Online Project
 ===============================
 
